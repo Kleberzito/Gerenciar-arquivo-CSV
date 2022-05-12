@@ -1,0 +1,13 @@
+D:\Projetos - C#\Gerenciar arquivo CSV\bin\Debug\netcoreapp3.1\Gerenciar arquivo CSV.exe
+D:\Projetos - C#\Gerenciar arquivo CSV\bin\Debug\netcoreapp3.1\Gerenciar arquivo CSV.deps.json
+D:\Projetos - C#\Gerenciar arquivo CSV\bin\Debug\netcoreapp3.1\Gerenciar arquivo CSV.runtimeconfig.json
+D:\Projetos - C#\Gerenciar arquivo CSV\bin\Debug\netcoreapp3.1\Gerenciar arquivo CSV.runtimeconfig.dev.json
+D:\Projetos - C#\Gerenciar arquivo CSV\bin\Debug\netcoreapp3.1\Gerenciar arquivo CSV.dll
+D:\Projetos - C#\Gerenciar arquivo CSV\bin\Debug\netcoreapp3.1\Gerenciar arquivo CSV.pdb
+D:\Projetos - C#\Gerenciar arquivo CSV\obj\Debug\netcoreapp3.1\Gerenciar arquivo CSV.csproj.AssemblyReference.cache
+D:\Projetos - C#\Gerenciar arquivo CSV\obj\Debug\netcoreapp3.1\Gerenciar arquivo CSV.AssemblyInfoInputs.cache
+D:\Projetos - C#\Gerenciar arquivo CSV\obj\Debug\netcoreapp3.1\Gerenciar arquivo CSV.AssemblyInfo.cs
+D:\Projetos - C#\Gerenciar arquivo CSV\obj\Debug\netcoreapp3.1\Gerenciar arquivo CSV.csproj.CoreCompileInputs.cache
+D:\Projetos - C#\Gerenciar arquivo CSV\obj\Debug\netcoreapp3.1\Gerenciar arquivo CSV.dll
+D:\Projetos - C#\Gerenciar arquivo CSV\obj\Debug\netcoreapp3.1\Gerenciar arquivo CSV.pdb
+D:\Projetos - C#\Gerenciar arquivo CSV\obj\Debug\netcoreapp3.1\Gerenciar arquivo CSV.genruntimeconfig.cache

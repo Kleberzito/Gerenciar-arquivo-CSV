@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Gerenciar arquivo CSV/1.0.0": {
+        "runtime": {
+          "Gerenciar arquivo CSV.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gerenciar arquivo CSV/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
